@@ -1,0 +1,24 @@
+{
+  "name": "openai-streaming-example",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Mijura/openai-streaming-example#readme",
+  "bugs": {
+    "url": "https://github.com/Mijura/openai-streaming-example/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mijura/openai-streaming-example.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "openai": "^6.38.0"
+  }
+}
